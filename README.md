@@ -30,4 +30,4 @@ keywords = {Diffraction tomography, Phase retrieval, Cryogenic electron microsco
 ```
 
 ## License
-Our code is licensed under GPL v3. By downloading the software, you agree to the terms of this License.
+Our code is licensed under GNU GPLv3. By downloading the software, you agree to the terms of this License.
