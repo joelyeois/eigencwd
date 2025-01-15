@@ -1,5 +1,5 @@
 # EigenCWD: a spatially varying deconvolution algorithm for single metalens imaging
-[Paper]()
+[Paper](http://dx.doi.org/10.1364/OE.540831)
 
 [Joel Yeo](https://orcid.org/0000-0001-5160-7628), [Ramon Paniagua-Dominguez](https://orcid.org/0000-0001-7836-681X), [N. Duane Loh](https://orcid.org/0000-0002-8886-510X), [Arseniy Kuznetsov](https://orcid.org/0000-0002-7622-8939)
 
